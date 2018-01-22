@@ -1,0 +1,6 @@
+projectKey=snom:backlight
+serverUrl=http://localhost:9000
+serverVersion=6.6.0.32724
+dashboardUrl=http://localhost:9000/dashboard/index/snom:backlight
+ceTaskId=AV-TW8dvspI5qixMubm4
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AV-TW8dvspI5qixMubm4
